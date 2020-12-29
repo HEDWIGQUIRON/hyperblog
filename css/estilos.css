@@ -4,8 +4,17 @@ body
     text-align: center;
     font-family: arial;
 }
+<<<<<<< HEAD
 #cuerpo
 {
 background-color: blue;
 
+=======
+
+#container 
+{
+    background-color:blue;
+    text-align: center;
+    font-family: arial;
+>>>>>>> cabecera
 }
