@@ -1,13 +1,20 @@
 body 
 {
-    color:blue;
+    color:red;
+    text-align: center;
+    font-family: arial;
+}
+
+#container2
+{
+    background-color:blue;
     text-align: center;
     font-family: arial;
 }
 
 #container 
 {
-    background-color:blue;
+    background-color:red;
     text-align: center;
     font-family: arial;
 }
