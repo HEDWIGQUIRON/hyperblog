@@ -4,3 +4,10 @@ body
     text-align: center;
     font-family: arial;
 }
+
+#container 
+{
+    background-color:blue;
+    text-align: center;
+    font-family: arial;
+}
