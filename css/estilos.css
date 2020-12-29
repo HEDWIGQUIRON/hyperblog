@@ -1,20 +1,28 @@
 body 
 {
-    color:blue;
+    color:red;
     text-align: center;
     font-family: arial;
 }
-<<<<<<< HEAD
+
 #cuerpo
 {
 background-color: blue;
 
-=======
+}
 
-#container 
+#container2
 {
     background-color:blue;
     text-align: center;
     font-family: arial;
->>>>>>> cabecera
+
+}
+
+#container 
+{
+    background-color:red;
+    text-align: center;
+    font-family: arial;
+
 }
